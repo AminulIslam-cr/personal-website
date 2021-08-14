@@ -1,0 +1,149 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 68px;
+    color: #1B1F23;
+    font-weight: 500;
+    line-height: 50px;
+}
+.header{
+    height: 1200px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.text-highlight{
+    color: #EC4C7A;
+    font-weight: 800;
+    font-size: 91px;
+    letter-spacing: 9px;
+}
+p{
+    color: #696969;
+    font-size: 28px;
+    line-height: 40px;
+    font-weight: 400;
+    padding-top: 26px;
+    padding-bottom: 49px;
+}    
+.half-header-text{
+        width: 35.5%;
+        float: left;
+        padding: 250px 0 100px 388px;
+}
+.half-width-img{
+    padding: 150px 94px 0px 65px;
+}
+.button{
+    background-image: linear-gradient(45deg,#EF6BA4, #ED4669);
+    text-decoration: none;
+    padding: 19px 54px;
+    color: white;
+    border-radius: 8px;
+    font-size: 25px;
+}
+.biography-area{
+    height: 1564px;
+
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio-img{
+    width: 45%;
+    padding: 29px 180px 0px 65px;
+    float: left;
+}
+.bio-text {
+    width: 74%;
+    padding: 370px 0 100px 388px;
+
+}
+.bio-img img{
+    width: 87%;
+    padding: 155px 0 0 203px;
+}
+.Latest-work{
+    text-align: center;
+    height: 750px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 197px 0 0 0px;
+}
+.img-set{
+    width: 89%;
+    margin: auto;
+    padding-left: 259px;
+
+}
+.Latest-work img{
+    width: 25%;
+    float: left;
+    padding: 2%;
+}
+
+.client {
+    text-align: center;
+    height: 1350px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.client h1{
+    padding: 200px 0 100px 0;
+}
+h3{
+    font-size: 35px;
+    color: #1B1F23;
+    margin-bottom: 15px;
+}
+h4{color: #717171;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 15px;
+        
+}
+.client-text p{
+    width: 552px;
+    margin: auto;
+    color: #3B3B3B;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 100px;
+   
+}
+.holder{
+    height: 297px;
+    width: 48%;
+    margin: auto;
+    background-image: linear-gradient( 
+45deg
+ ,#EF6BA4, #ED4669);
+    border-radius: 20px;
+    background-image: linear-gradient(45deg,#EF6BA4, #ED4669);
+    border-radius: 10px;
+}
+.holder p {
+    color: white;
+    padding-bottom: 10px;
+    font-size: 23px;
+    margin: 37px;
+    padding-top: 53px;
+}
+
+#email{
+        font-size: 42px;
+        padding-top: 10px;
+        margin: -33px;
+    }
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+
+
